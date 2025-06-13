@@ -23,3 +23,7 @@ python aws-email-root-validator.py --email your.email@example.com
 
 python aws-email-root-validator.py --file email-list.txt
 ```
+![image](https://github.com/user-attachments/assets/3ccdf7e3-2ee2-4622-ba9a-a2ff3f1d5e9f)
+
+![image](https://github.com/user-attachments/assets/ba35f2a7-0ff6-4407-9674-68e2483bdf59)
+
