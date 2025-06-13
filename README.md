@@ -19,9 +19,9 @@ pip3 install boto3
 ```
 
 ```sh
-python aws-email-root-validator.py --email your.email@example.com
+python3 aws-email-root-validator.py --bucket awsemailvalidator --email your.email@example.com
 
-python aws-email-root-validator.py --file email-list.txt
+python3 aws-email-root-validator.py --bucket awsemailvalidator --file email-list.txt
 ```
 ![image](https://github.com/user-attachments/assets/3ccdf7e3-2ee2-4622-ba9a-a2ff3f1d5e9f)
 
